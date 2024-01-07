@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hello 👋 , I am Tianliang Yao @ Tongji Univ. (Dept. of Control Science and Engineering.). I’m currently working on medical image analysis and medical robotics. I’m currently learning deep-learning, static analysis, and intelligent control. Reach me: 2150248@tongji.edu.cn.
 
 <!--
 **Metaphysicist0/Metaphysicist0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on medical image analysis and medical robotics.
-- 🌱 I’m currently learning deep-learning, static analysis, and intelligent control.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with medical students and medical experts.
-- 💬 Ask me about ...
-- 📫 How to reach me: 2150248@tongji.edu.cn
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
