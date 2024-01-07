@@ -1,16 +1,25 @@
-### Hello 👋 , I am Tian-Liang Yao @ Tongji Univ. (Dept. of Control Science and Engineering.), an undergraduate now. I’m extremely interested in AI4Medical, including medical image analysis and medical robotics. I’m currently learning deep-learning, static analysis, and intelligent control. Reach me: 2150248@tongji.edu.cn.
+### Hi there my No.![visitor count](https://profile-counter.glitch.me/Metaphysicist0/count.svg) visitor，I'm Tian-Liang Yao @ Tongji Univ. !
 
 <!--
-**Metaphysicist0/Metaphysicist0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
+- 🔭 I’m currently working on AI4Medical
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: 2150248@tongji.edu.cn
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
+I love to talk about ✨ technology✨ and keep learning the latest technology.     
+I'm looking forward to making friends with all of you!😉   
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Metaphysicist0&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+- 🔭 I’m currently studying Automation @ Tongji Univ.
+- 🌱 I mainly focus on Biomedical Engineering, Intelligent Medical Robotics (design & control and surgical planning, to reach level 5 (according to the standard of Prof. G-Z Yang)), and Medical Image Analysis.
+- 📫 How to reach me: 2150248@tongji.edu.cn
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metaphysicist0&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Metaphysicist0&show_icons=true&theme=tokyonight&count_private=true" style="width: 49%; height: 200px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metaphysicist0&theme=tokyonight&layout=compact" style="width: 49%; height: 200px;"/>
+</div>
