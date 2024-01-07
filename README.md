@@ -18,7 +18,7 @@ I'm looking forward to making friends with all of you!😉
 - 🔭 I’m currently studying Automation @ Tongji Univ and working on AI4Medical.
 - 🌱 I mainly focus on Biomedical Engineering, Intelligent Medical Robotics (to reach level 5 (standard proposed by Prof. G-Z Yang)), and Medical Image Analysis.
 - 📫 How to reach me: 2150248@tongji.edu.cn.
-- https://metaphysicist0.github.io/.
+- - 🧑‍💻 My website: https://metaphysicist0.github.io/.
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=Metaphysicist0&show_icons=true&theme=tokyonight&count_private=true" style="width: 49%; height: 200px;"/>
