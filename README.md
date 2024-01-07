@@ -15,7 +15,7 @@
 I love to talk about ✨ technology✨ and keep learning the latest technology.     
 I'm looking forward to making friends with all of you!😉   
 
-- 🔭 I’m currently studying Automation @ Tongji Univ and working on AI4Medical.
+- 🔭 I’m currently studying Automation @ Tongji Univ. and working on AI4Medical.
 - 🌱 I mainly focus on Biomedical Engineering, Intelligent Medical Robotics (to reach level 5 (standard proposed by Prof. Guang-Zhong Yang)), and Medical Image Analysis.
 - In the field of intelligent medical robotics, I hope to combine machine intelligence and algorithm intelligence. Regarding machine intelligence, metamorphic mechanism (a wonderful theory proposed by Prof. Jian S. Dai) is interesting and prosperous. For algorithm intelligence, semantic analysis of surgical scenes, imitation learning of surgeon skills, surgical planning and decision-making, and intelligent control theory are all vital.
 - 📫 How to reach me: 2150248@tongji.edu.cn.
