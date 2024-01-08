@@ -26,7 +26,7 @@ I'm looking forward to making friends with all of you!😉
 - 
 - In the field of medical image analysis and bioinformatics, I hope to leverage machine learning algorithms to mine hidden patterns in the fusion of multi-source biomedical data.
 -
-- I hope to discuss, communicate, and cooperate with friends, especially friends with backgrounds in artificial intelligence, institutional science, and clinical medicine!
+- I hope to discuss, communicate, and cooperate with friends, especially peers with backgrounds in artificial intelligence, mechanism theory, and clinical medicine!
 - 
 - 📫 How to reach me: 2150248@tongji.edu.cn.
 - 🧑‍💻 My website: https://metaphysicist0.github.io/.
