@@ -22,9 +22,9 @@ I'm looking forward to making friends with all of you!😉
 - 
 - What do I want to do?
 - 
-- In the field of intelligent medical robotics, I hope to combine machine intelligence and algorithm intelligence. Regarding machine intelligence, metamorphic mechanism (a wonderful theory proposed by Prof. Jian S. Dai) is interesting and prosperous. For algorithm intelligence, semantic analysis of surgical scenes, imitation learning of surgeon skills, surgical planning and decision-making, and intelligent control theory are all vital.
+- In the field of intelligent medical robotics, I hope to combine machine intelligence and algorithm intelligence. Regarding machine intelligence, metamorphic mechanism (a wonderful theory proposed by Prof. Jian S. Dai) and continuum/soft robotic structure are interesting and prosperous. For algorithm intelligence, semantic analysis of surgical scenes, imitation learning of surgeon skills, surgical planning and decision-making, and intelligent control theory are all vital.
 - 
-- In the field of medical image analysis and bioinformatics, I hope to leverage machine learning algorithms to mine hidden patterns in the fusion of multi-source biomedical data.
+- For medical image analysis and bioinformatics, I am eager to leverage machine learning algorithms to mine hidden patterns in the fusion of multi-source/multi-modality biomedical data.
 -
 - I hope to discuss, communicate, and cooperate with friends, especially peers with backgrounds in artificial intelligence, mechanism theory, and clinical medicine!
 - 
