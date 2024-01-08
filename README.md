@@ -1,4 +1,6 @@
-### Hi there my No.![visitor count](https://profile-counter.glitch.me/Metaphysicist0/count.svg) visitor， I'm Tian-Liang Yao @ Tongji Univ. (Dept of Control Science and Engineering)!
+### Hi there my No.![visitor count](https://profile-counter.glitch.me/Metaphysicist0/count.svg) visitor.
+
+### I'm Tian-Liang Yao @ Tongji Univ. (Dept of Control Science and Engineering)!
 
 <!--
 
@@ -23,7 +25,9 @@ I'm looking forward to making friends with all of you!😉
 - In the field of intelligent medical robotics, I hope to combine machine intelligence and algorithm intelligence. Regarding machine intelligence, metamorphic mechanism (a wonderful theory proposed by Prof. Jian S. Dai) is interesting and prosperous. For algorithm intelligence, semantic analysis of surgical scenes, imitation learning of surgeon skills, surgical planning and decision-making, and intelligent control theory are all vital.
 - 
 - In the field of medical image analysis and bioinformatics, I hope to leverage machine learning algorithms to mine hidden patterns in the fusion of multi-source biomedical data.
+-
 - I hope to discuss, communicate, and cooperate with friends, especially friends with backgrounds in artificial intelligence, institutional science, and clinical medicine!
+- 
 - 📫 How to reach me: 2150248@tongji.edu.cn.
 - 🧑‍💻 My website: https://metaphysicist0.github.io/.
 
