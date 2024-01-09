@@ -8,13 +8,13 @@
 - 
 - What do I want to do?
 - 
-- In the field of intelligent medical robotics, I hope to combine *machine intelligence* and *algorithm intelligence* together.
+- In the field of intelligent medical robotics, I hope to combine **machine intelligence** and **algorithm intelligence** together.
 -
-- Regarding machine intelligence, metamorphic mechanism (a wonderful theory proposed by Prof. [Jian S. Dai](https://sustech.edu.cn/zh/faculties/daijiansheng.html)  (some delicate devices, including mitral valve clamps and valves for TAVR, are all possible directions where metamorphic mechanism can be utilized) and continuum/soft robotic structures are interesting and prosperous.
+- Regarding **machine intelligence**, metamorphic mechanism (a wonderful theory proposed by Prof. [Jian S. Dai](https://sustech.edu.cn/zh/faculties/daijiansheng.html)  (some delicate devices, including mitral valve clamps and valves for TAVR, are all possible directions where metamorphic mechanism can be utilized) and continuum/soft robotic structures are interesting and prosperous.
 -
-- For *algorithm intelligence*, semantic analysis of surgical scenes, imitation learning of surgeon skills, surgical planning and decision-making, and intelligent control theory are all vital. I am also eager to leverage machine learning algorithms to mine hidden patterns in the fusion of multi-source/multi-modality biomedical data. This is also an important part of the proposed *algorithm intelligence*.
+- For **algorithm intelligence**, semantic analysis of surgical scenes, imitation learning of surgeon skills, surgical planning and decision-making, and intelligent control theory are all vital. I am also eager to leverage machine learning algorithms to mine hidden patterns in the fusion of multi-source/multi-modality biomedical data. This is also an important part of the proposed *algorithm intelligence*.
 -
-- I hope to discuss, communicate, and cooperate with friends, especially peers with backgrounds in artificial intelligence, mechatronics, mechanism and machine theory, and clinical medicine!
+- I hope to discuss, communicate, and cooperate with friends, especially peers with backgrounds in artificial intelligence, clinical medicine mechatronics, and  mechanism and machine theory!
 - 
 - 📫 How to reach me: 2150248@tongji.edu.cn.
 - 🧑‍💻 My website: https://metaphysicist0.github.io/.
