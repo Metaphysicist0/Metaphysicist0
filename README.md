@@ -1,6 +1,7 @@
 ### Hi there my No.![visitor count](https://profile-counter.glitch.me/Metaphysicist0/count.svg) visitor.
 
-### I'm Tian-Liang Yao @ Tongji Univ. (Dept of Control Science and Engineering, Supervisor: [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm))!
+### I'm Tian-Liang Yao @ Tongji Univ.
+### (Dept of Control Science and Engineering, Supervisor: Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm))!
 
 <!--
 
