@@ -5,7 +5,7 @@
  (Dept of Control Science and Engineering, Supervisor: Prof. [Peng Qi (齐鹏)](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm)).
 
 - 🔭 I’m currently studying Automation @ Tongji Univ. and working on AI4Medical. Undergraduate graduation in 2025.
-- 🌱 I mainly focus on AI4Medical, Biomedical Engineering, Intelligent Medical Robotics (aiming to reach the level 5 (standard of automation proposed by Prof. [Guang-Zhong Yang (杨广中)](https://imr.sjtu.edu.cn/en/po_facultyv/532.html)), and Medical Image Analysis.
+- 🌱 I mainly focus on AI4Medical, Biomedical Engineering, Intelligent Medical Robotics (aiming to reach the level 5 (standard of automation proposed by Prof. [Guang-Zhong Yang (杨广中)](https://imr.sjtu.edu.cn/en/po_facultyv/532.html))), and Medical Image Analysis.
 - 
 - What do I want to do?
 - 
