@@ -18,11 +18,11 @@ I love to talk about ✨ technology✨ and keep learning the latest technology.
 I'm looking forward to making friends with all of you!😉   
 
 - 🔭 I’m currently studying Automation @ Tongji Univ. and working on AI4Medical. Undergraduate graduation in 2025.
-- 🌱 I mainly focus on Biomedical Engineering, Intelligent Medical Robotics (to reach level 5 (standard proposed by Prof. Guang-Zhong Yang)), and Medical Image Analysis.
+- 🌱 I mainly focus on Biomedical Engineering, Intelligent Medical Robotics (to reach level 5 (standard proposed by Prof. [Guang-Zhong Yang](https://imr.sjtu.edu.cn/en/po_facultyv/532.html)), and Medical Image Analysis.
 - 
 - What do I want to do?
 - 
-- In the field of intelligent medical robotics, I hope to combine machine intelligence and algorithm intelligence. Regarding machine intelligence, metamorphic mechanism (a wonderful theory proposed by Prof. Jian S. Dai) and continuum/soft robotic structure are interesting and prosperous. For algorithm intelligence, semantic analysis of surgical scenes, imitation learning of surgeon skills, surgical planning and decision-making, and intelligent control theory are all vital.
+- In the field of intelligent medical robotics, I hope to combine machine intelligence and algorithm intelligence. Regarding machine intelligence, metamorphic mechanism (a wonderful theory proposed by Prof. [Jian S. Dai](https://sustech.edu.cn/zh/faculties/daijiansheng.html) and continuum/soft robotic structures are interesting and prosperous. For algorithm intelligence, semantic analysis of surgical scenes, imitation learning of surgeon skills, surgical planning and decision-making, and intelligent control theory are all vital.
 - 
 - For medical image analysis and bioinformatics, I am eager to leverage machine learning algorithms to mine hidden patterns in the fusion of multi-source/multi-modality biomedical data.
 -
