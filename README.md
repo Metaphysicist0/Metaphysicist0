@@ -1,7 +1,8 @@
 ### Hi there my No.![visitor count](https://profile-counter.glitch.me/Metaphysicist0/count.svg) visitor.
 
 ### I'm Tian-Liang Yao @ Tongji Univ.
-### (Dept of Control Science and Engineering, Supervisor: Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm))!
+
+### (Dept of Control Science and Engineering, Supervisor: Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm)).
 
 - 🔭 I’m currently studying Automation @ Tongji Univ. and working on AI4Medical. Undergraduate graduation in 2025.
 - 🌱 I mainly focus on AI4Medical, Biomedical Engineering, Intelligent Medical Robotics (to reach level 5 (standard proposed by Prof. [Guang-Zhong Yang](https://imr.sjtu.edu.cn/en/po_facultyv/532.html)), and Medical Image Analysis.
