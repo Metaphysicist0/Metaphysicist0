@@ -5,11 +5,11 @@
 ### (Dept of Control Science and Engineering, Supervisor: Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm)).
 
 - 🔭 I’m currently studying Automation @ Tongji Univ. and working on AI4Medical. Undergraduate graduation in 2025.
-- 🌱 I mainly focus on AI4Medical, Biomedical Engineering, Intelligent Medical Robotics (to reach level 5 (standard proposed by Prof. [Guang-Zhong Yang](https://imr.sjtu.edu.cn/en/po_facultyv/532.html)), and Medical Image Analysis.
+- 🌱 I mainly focus on AI4Medical, Biomedical Engineering, Intelligent Medical Robotics (to reach the level 5 (standard of automation proposed by Prof. [Guang-Zhong Yang](https://imr.sjtu.edu.cn/en/po_facultyv/532.html)), and Medical Image Analysis.
 - 
 - What do I want to do?
 - 
-- In the field of intelligent medical robotics, I hope to combine **machine intelligence** and **algorithm intelligence** together.
+- In the field of intelligent medical robotics (or a broader horizon: AI4Medical), I hope to combine **machine intelligence** and **algorithm intelligence** together.
 -
 - Regarding **machine intelligence**, metamorphic mechanism (a wonderful theory proposed by Prof. [Jian S. Dai](https://sustech.edu.cn/zh/faculties/daijiansheng.html)  (some delicate devices, including mitral valve clamps and valves for TAVR, are all possible directions where metamorphic mechanism can be utilized) and continuum/soft robotic structures are interesting and prosperous.
 -
