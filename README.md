@@ -1,21 +1,23 @@
 ### Hi there my No.![visitor count](https://profile-counter.glitch.me/Metaphysicist0/count.svg) visitor.
 
-### I'm Tian-Liang Yao （姚天亮） @ Tongji Univ.
+### I'm Tian-Liang Yao @ Tongji Univ.
 
- (Dept of Control Science and Engineering, Supervisor: Prof. [Peng Qi (齐鹏)](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm)).
+ (Dept of Control Science and Engineering, Supervisor: Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm)).
 
 - 🔭 I’m currently studying Automation @ Tongji Univ. and working on AI4Medical. Undergraduate graduation in 2025.
-- 🌱 I mainly focus on AI4Medical, Biomedical Engineering, Intelligent Medical Robotics (aiming to reach the level 5 (standard of automation proposed by Prof. [Guang-Zhong Yang (杨广中)](https://imr.sjtu.edu.cn/en/po_facultyv/532.html))), and Medical Image Analysis.
+- 🌱 I mainly focus on AI4Medical, Biomedical Engineering, Intelligent Medical Robotics (aiming to reach the level 5 (standard of automation proposed by Prof. [Guang-Zhong Yang](https://imr.sjtu.edu.cn/en/po_facultyv/532.html))), and Medical Image Analysis.
 - 
 - What do I want to do?
 - 
 - In the field of intelligent medical robotics (or a broader horizon: AI4Medical), I hope to combine **mechanism intelligence** and **algorithm intelligence** together.
 -
-- Regarding **mechanism intelligence**, metamorphic mechanism (a wonderful theory proposed by Prof. [Jian S. Dai (戴建生)](https://sustech.edu.cn/zh/faculties/daijiansheng.html)  (some delicate devices, including mitral valve clamps for TEER and valves for TAVR, are all possible directions where metamorphic mechanism can be utilized) and continuum/soft structures are also very interesting and promising in advanced intelligent medical robotics.
+- Regarding **mechanism intelligence**, metamorphic mechanism (a wonderful theory proposed by Prof. [Jian S. Dai](https://sustech.edu.cn/zh/faculties/daijiansheng.html)  (some delicate devices, including mitral valve clamps for TEER and valves for TAVR, are all possible directions where metamorphic mechanism can be utilized) and continuum/soft structures are also very interesting and promising in advanced intelligent medical robotics.
 -
 - For **algorithm intelligence**, semantic analysis of surgical scenes, imitation learning of surgeon skills, surgical planning and decision-making, and intelligent control theory are all vital. I am also eager to leverage machine learning algorithms to mine hidden patterns in the fusion of multi-source/multi-modality biomedical data. This is also an important part of the proposed algorithm intelligence.
 -
-- I hope to discuss, communicate, and cooperate with friends, especially peers with backgrounds in artificial intelligence, clinical medicine, mechatronics, and mechanism and machine theory under the concept of 'From the doctors. By the engineers. For the patients.', as proposed by Prof. [Junbo Ge](https://ibs.fudan.edu.cn/ab/33/c21163a240435/page.htm). Let's make the world better!
+- I hope to discuss, communicate, and cooperate with friends, especially peers with backgrounds in artificial intelligence, clinical medicine, mechatronics, and mechanism and machine theory under the concept of 'From the doctors. By the engineers. For the patients.' proposed by Prof. [Junbo Ge](https://ibs.fudan.edu.cn/ab/33/c21163a240435/page.htm).
+-
+- Let's make the world better!
 - 
 - 📫 How to reach me: 2150248@tongji.edu.cn.
 - 🧑‍💻 My website: https://metaphysicist0.github.io/.
