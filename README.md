@@ -9,9 +9,9 @@
 - 
 - What do I want to do?
 - 
-- In the field of intelligent medical robotics (or a broader horizon: AI4Medical), I hope to combine **machine intelligence** and **algorithm intelligence** together.
+- In the field of intelligent medical robotics (or a broader horizon: AI4Medical), I hope to combine **mechanism intelligence** and **algorithm intelligence** together.
 -
-- Regarding **machine intelligence**, metamorphic mechanism (a wonderful theory proposed by Prof. [Jian S. Dai](https://sustech.edu.cn/zh/faculties/daijiansheng.html)  (some delicate devices, including mitral valve clamps and valves for TAVR, are all possible directions where metamorphic mechanism can be utilized) and continuum/soft robotic structures are interesting and promising.
+- Regarding **mechanism intelligence**, metamorphic mechanism (a wonderful theory proposed by Prof. [Jian S. Dai](https://sustech.edu.cn/zh/faculties/daijiansheng.html)  (some delicate devices, including mitral valve clamps and valves for TAVR, are all possible directions where metamorphic mechanism can be utilized) and continuum/soft robotic structures are interesting and promising.
 -
 - For **algorithm intelligence**, semantic analysis of surgical scenes, imitation learning of surgeon skills, surgical planning and decision-making, and intelligent control theory are all vital. I am also eager to leverage machine learning algorithms to mine hidden patterns in the fusion of multi-source/multi-modality biomedical data. This is also an important part of the proposed algorithm intelligence.
 -
