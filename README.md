@@ -15,7 +15,7 @@
 -
 - For **algorithm intelligence**, semantic analysis of surgical scenes, imitation learning of surgeon skills, surgical planning and decision-making, and intelligent control theory are all vital. I am also eager to leverage machine learning algorithms to mine hidden patterns in the fusion of multi-source/multi-modality biomedical data. This is also an important part of the proposed algorithm intelligence.
 -
-- I hope to discuss, communicate, and cooperate with friends, especially peers with backgrounds in artificial intelligence, clinical medicine, mechatronics, and mechanism and machine theory!
+- I hope to discuss, communicate, and cooperate with friends, especially peers with backgrounds in artificial intelligence, clinical medicine, mechatronics, and mechanism and machine theory under the concept of 'From the doctors. By the engineers. For the patients.', as proposed by Prof. [Junbo Ge](https://ibs.fudan.edu.cn/ab/33/c21163a240435/page.htm). Let's make the world better!
 - 
 - 📫 How to reach me: 2150248@tongji.edu.cn.
 - 🧑‍💻 My website: https://metaphysicist0.github.io/.
