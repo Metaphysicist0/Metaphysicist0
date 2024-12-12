@@ -1,13 +1,11 @@
 ### Hi there my No.![visitor count](https://profile-counter.glitch.me/Metaphysicist0/count.svg) visitor.
 
-### I'm Tianliang Yao @ Tongji University (Department of Control Science and Engineering).
+### I'm Tianliang Yao, a fourth-year undergraduate student majoring in Automation at Tongji University, and an incoming PhD student at the AIM Group, Department of Electrical Engineering, The Chinese University of Hong Kong.
 
-✨ I am actively seeking a Ph.D. position @ The Chinese University of Hong Kong (CUHK) in the fall of 2025, with a strong emphasis on Medical Robotics and Medical Image Analysis. My primary objective is to advance research in these domains and contribute to the development of groundbreaking solutions that can revolutionize healthcare. The opportunity to conduct research @ CUHK would provide me with the ideal platform to collaborate with renowned experts, access state-of-the-art facilities, and make significant strides in these areas. 
-
-- 🔭 I’m currently studying Automation @ Tongji Univ. and working on AI4Medicine. Undergraduate graduation in 2025.
-- 🌱 I mainly focus on AI4Science (biomedical), Medical Image Analysis, and Embodied AI and Robotics for HealTHcare (EARTH). 
+- 🔭 Research Interests: Computer Vision, Multimodal Medical Data Analysis, Image-Guided Interventions
+- 🌱 Currently, my research at Tongji is focused on developing embodied intelligence for robotic-assisted endovascular procedures. I am investigating innovative methods to combine robotics and AI to improve the accuracy and effectiveness of minimally invasive endovascular procedures.
 - 
-- 📫 How to reach me: 2150248@tongji.edu.cn.
+- 📫 How to reach me: 2150248@tongji.edu.cn/ Wechat: ytl20030607
 - 🧑‍💻 My website: https://metaphysicist0.github.io/.
 
 <div style="display: flex; justify-content: space-between;">
