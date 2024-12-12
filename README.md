@@ -1,10 +1,10 @@
 ### Hi there my No.![visitor count](https://profile-counter.glitch.me/Metaphysicist0/count.svg) visitor.
 
-### I'm Tianliang Yao, a fourth-year undergraduate student majoring in Automation at Tongji University, and an incoming PhD student at the AIM Group, Department of Electrical Engineering, The Chinese University of Hong Kong.
+- 👋 I'm Tianliang Yao, a fourth-year undergraduate student majoring in Automation at Tongji University, and an incoming PhD student at the AIM Group, Department of Electrical Engineering, The Chinese University of Hong Kong.
 
 - 🔭 Research Interests: Computer Vision, Multimodal Medical Data Analysis, Image-Guided Interventions
 - 🌱 Currently, my research at Tongji is focused on developing embodied intelligence for robotic-assisted endovascular procedures. I am investigating innovative methods to combine robotics and AI to improve the accuracy and effectiveness of minimally invasive endovascular procedures.
-- 
+ 
 - 📫 How to reach me: 2150248@tongji.edu.cn/ Wechat: ytl20030607
 - 🧑‍💻 My website: https://metaphysicist0.github.io/.
 
