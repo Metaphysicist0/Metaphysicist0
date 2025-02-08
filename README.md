@@ -12,10 +12,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Metaphysicist0&show_icons=true&theme=tokyonight&count_private=true" style="width: 49%; height: 200px;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metaphysicist0&theme=tokyonight&layout=compact" style="width: 49%; height: 200px;"/>
 </div>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/Metaphysicist0/Metaphysicist0/blob/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
